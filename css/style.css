@@ -40,6 +40,6 @@ header span{
     border: 1px solid black;
 }
 
-footer{
-    margin: 0 0 120px 0;
+footer a{
+    padding-bottom: 120px;
 }
